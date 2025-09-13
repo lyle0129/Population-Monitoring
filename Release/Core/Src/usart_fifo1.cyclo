@@ -1,0 +1,6 @@
+../Core/Src/usart_fifo1.c:60:6:USART1_IRQHandler	11
+../Core/Src/usart_fifo1.c:182:6:usart1_init	1
+../Core/Src/usart_fifo1.c:393:6:usart1_exit	2
+../Core/Src/usart_fifo1.c:423:6:usart1_rx_get_event	4
+../Core/Src/usart_fifo1.c:437:6:usart1_tx_is_busy	2
+../Core/Src/usart_fifo1.c:441:6:usart1_tx_send	3
