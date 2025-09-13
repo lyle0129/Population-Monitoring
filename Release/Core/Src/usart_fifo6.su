@@ -1,6 +1,0 @@
-../Core/Src/usart_fifo6.c:60:6:USART6_IRQHandler	20	static
-../Core/Src/usart_fifo6.c:182:6:usart6_init	8	static
-../Core/Src/usart_fifo6.c:392:6:usart6_exit	0	static
-../Core/Src/usart_fifo6.c:422:6:usart6_rx_get_event	8	static
-../Core/Src/usart_fifo6.c:436:6:usart6_tx_is_busy	0	static
-../Core/Src/usart_fifo6.c:440:6:usart6_tx_send	12	static
